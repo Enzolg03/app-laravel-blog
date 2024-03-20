@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.container{
+    width: 50%;
+    margin: 0 auto;
+}
+.container article{
+    margin-bottom: 14px;
+}
+.container article h2{
+    font-weight: bolder;
+    margin-bottom: 6px;
+}
